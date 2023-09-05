@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(114, 44, 59) ;
+    font-weight: bold;
+    text-align: center;
+    font-size: 32px;
+}
+
+p {
+    color: rgb(10, 5, 5);
+    font-size: 24px;
+}
+
+a {
+    color: rgb(206, 16, 16)1, 9, 9);
+    font-size: 25px;
+    font-weight: bold;
+}
